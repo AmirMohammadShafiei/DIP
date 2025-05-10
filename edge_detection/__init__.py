@@ -1,0 +1,1 @@
+# Edge detection package initialization
